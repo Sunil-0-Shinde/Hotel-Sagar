@@ -23,4 +23,4 @@ Bonus features built in:
 Smooth scroll when you click nav links
 Fade-up animation as sections come into view while scrolling
 Fully mobile responsive
-WhatsApp button pre-fills the message automatically
+WhatsApp button pre-fills the message automatically. 
